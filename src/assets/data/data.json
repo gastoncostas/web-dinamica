@@ -1,0 +1,62 @@
+{
+    "header":{
+        "background_img":"assets/banner.jpg",
+        "profile_img":"assets/profile photo.jpg",
+        "nombre":"Gastón Costas"
+    },
+    "datos_personales":{
+        "title":{
+            "text":"Datos Personales"
+        },
+        "nombre_completo":{
+            "tag":"Nombre completo:",
+            "content":" Gastón Jesús Sebastián Costas"
+        },
+        "fecha_nacimiento":{
+            "tag":"Fecha de nacimiento:",
+            "content":" 30/05/2000"
+        },
+        "nacionalidad":{
+            "tag":"Nacionalidad:",
+            "content":" Argentina"
+        }
+    },
+    "logos":{
+        "facebook":"assets/logo-facebook.png",
+        "linkedin":"assets/logo-linkedin.png",
+        "github":"assets/logo-github.png"
+    },
+    "objetivos":{
+        "title":{
+            "text":"Objetivos"
+        },
+        "first":"Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje.",
+        "second":"Poder vivir de lo que me gustó desde muy chico y ayudar a mi familia cuando esté a mi alcance.",
+        "third":"Finalizar mi carrera por mis propios medios."
+    },
+    "formacion_academica":{
+        "title":{
+            "text":"Formación Académica"
+        },
+        "escuela":{
+            "text":"Niveles: inicial, primario y secundario",
+            "liceo":"Liceo Militar Gral. Gregorio Aráoz de Lamadrid",
+            "url":"#",
+            "inicio":"2004",
+            "fin":"2017"
+        },
+        "universidad":{
+            "utn":"Universidad Tecnológica Nacional",
+            "url":"UTN-FRT",
+            "inicio":"2018",
+            "fin":"actualidad"
+        }
+    },
+        "skills":{
+            "habilidades":"Habilidades",
+            "first":"Inglés: A2 (examen del Instituto de Enseñanza Superior del Ejército).",
+            "second":"Conocimiento técnico en sistemas en general y de información.",
+            "third":"Escucha activa.",
+            "forth":"Pensamiento crítico."
+    }
+}
