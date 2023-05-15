@@ -1,43 +1,16 @@
 {
-    "header":{
-        "background_img":"assets/banner.jpg",
-        "profile_img":"assets/profile photo.jpg",
-        "nombre":"Gastón Costas"
-    },
     "datos_personales":{
-        "title":{
-            "text":"Datos Personales"
-        },
-        "nombre_completo":{
-            "tag":"Nombre completo:",
-            "content":" Gastón Jesús Sebastián Costas"
-        },
-        "fecha_nacimiento":{
-            "tag":"Fecha de nacimiento:",
-            "content":" 30/05/2000"
-        },
-        "nacionalidad":{
-            "tag":"Nacionalidad:",
-            "content":" Argentina"
-        }
-    },
-    "logos":{
-        "facebook":"assets/logo-facebook.png",
-        "linkedin":"assets/logo-linkedin.png",
-        "github":"assets/logo-github.png"
+        "nombre":"Gastón Jesús Sebastián",
+        "apellido":"Costas",        
+        "fecha_nacimiento":"30/05/2000",
+        "nacionalidad":" Argentina"        
     },
     "objetivos":{
-        "title":{
-            "text":"Objetivos"
-        },
         "first":"Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje.",
         "second":"Poder vivir de lo que me gustó desde muy chico y ayudar a mi familia cuando esté a mi alcance.",
         "third":"Finalizar mi carrera por mis propios medios."
     },
     "formacion_academica":{
-        "title":{
-            "text":"Formación Académica"
-        },
         "escuela":{
             "text":"Niveles: inicial, primario y secundario",
             "liceo":"Liceo Militar Gral. Gregorio Aráoz de Lamadrid",
@@ -52,11 +25,17 @@
             "fin":"actualidad"
         }
     },
-        "skills":{
-            "habilidades":"Habilidades",
+    "skills":{
             "first":"Inglés: A2 (examen del Instituto de Enseñanza Superior del Ejército).",
             "second":"Conocimiento técnico en sistemas en general y de información.",
             "third":"Escucha activa.",
             "forth":"Pensamiento crítico."
+    },
+    "direcciones":{
+        "background_img":"./assets/banner.jpg",
+        "profile_img":"./assets/profile photo.jpg",
+        "facebook":"./assets/logo-facebook.png",
+        "linkedin":"./assets/logo-linkedin.png",
+        "github":"./assets/logo-github.png"
     }
 }
