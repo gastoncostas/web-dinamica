@@ -10,6 +10,7 @@ import { ObjectivesComponent } from './components/objectives/objectives.componen
 import { AcademicFormationComponent } from './components/academic-formation/academic-formation.component';
 import { SkillsComponent } from './components/skills/skills.component';
 import { HttpClientModule } from '@angular/common/http';
+import { LoginComponent } from './components/login/login.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { HttpClientModule } from '@angular/common/http';
     LogosComponent,
     ObjectivesComponent,
     AcademicFormationComponent,
-    SkillsComponent
+    SkillsComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
